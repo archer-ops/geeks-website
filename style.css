@@ -9,7 +9,7 @@ body{
     header {
         background-color: #4caf50;
         color: white;
-        box-shadow: 0 4px 6px rgba(red, green, blue, alpha0.1);
+        box-shadow: 0 4px 6px rgba(red, green, blue, alpha0.1); 
         padding: 24px 0;
         text-align: center;
     }
@@ -22,3 +22,21 @@ body{
         font-size: 40px;
         margin: 0;
     }
+    nav{
+        background-color: black;
+        /* backgrouund color:black*/
+text-align: center
+padding: 12px 8
+        ;}
+        nav a{
+            text-decoration: white;
+            color: white;
+            margin: 0 20px;
+            font-weight: 000;
+            font-size: 18px;
+            letter-spacing: 0.5px;
+        }
+        nav a:hover{
+            color: #ff4500;
+            text-decoration: underline;
+        }
