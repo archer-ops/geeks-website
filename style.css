@@ -7,7 +7,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
     header {
-        background-color: #4caf50;
+        background-color: #4caf5e;
         color: white;
         box-shadow: 0 4px 6px rgba(red, green, blue, alpha0.1); 
         padding: 24px 0;
@@ -84,10 +84,7 @@ padding: 12px 0;
         }
         ul li strong{
             color: #007bff;}
-            form{
-                max-width: 650px;
-                margin: 20px auto;
-            }
+            
             form label{
                 margin-bottom: 8px;
                 font-weight: 600px;
